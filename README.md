@@ -1,5 +1,10 @@
 <h1>PowerShell Local Groups Management Toolkit</h1>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+  <img src="https://img.shields.io/badge/Status-Finished-brightgreen">
+</p>
 Una herramienta en PowerShell diseñada para la administración y gestión de grupos locales en Windows de forma rápida, interactiva y centralizada desde consola.
 Este toolkit simplifica tareas comunes de administración de grupos sin necesidad de usar directamente la interfaz gráfica de Windows.
 <br><br>
